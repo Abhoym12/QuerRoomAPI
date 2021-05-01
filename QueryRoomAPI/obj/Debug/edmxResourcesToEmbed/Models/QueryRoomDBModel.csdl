@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QueryRoomDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TBL_ANSWERS">
+    <Key>
+      <PropertyRef Name="AID" />
+    </Key>
+    <Property Name="AID" Type="Guid" Nullable="false" />
+    <Property Name="QID" Type="Guid" />
+    <Property Name="USERNAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ANSWER" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="DATE" Type="DateTime" Precision="3" />
+    <Property Name="LIKES" Type="Int32" />
+    <Property Name="DISLIKES" Type="Int32" />
+    <Property Name="ISVALIDATED" Type="Boolean" />
+    <NavigationProperty Name="TBL_SIGNUP" Relationship="Self.FK__TBL_ANSWE__USERN__1F98B2C1" FromRole="TBL_ANSWERS" ToRole="TBL_SIGNUP" />
+    <NavigationProperty Name="TBL_QUESTIONS" Relationship="Self.FK__TBL_ANSWERS__QID__208CD6FA" FromRole="TBL_ANSWERS" ToRole="TBL_QUESTIONS" />
+  </EntityType>
+  <EntityType Name="TBL_QUESTIONS">
+    <Key>
+      <PropertyRef Name="QID" />
+    </Key>
+    <Property Name="QID" Type="Guid" Nullable="false" />
+    <Property Name="QUESTION" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="USERNAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TIMESTAMP" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="TBL_ANSWERS" Relationship="Self.FK__TBL_ANSWERS__QID__208CD6FA" FromRole="TBL_QUESTIONS" ToRole="TBL_ANSWERS" />
+    <NavigationProperty Name="TBL_SIGNUP" Relationship="Self.FK__TBL_QUEST__USERN__1CBC4616" FromRole="TBL_QUESTIONS" ToRole="TBL_SIGNUP" />
+  </EntityType>
+  <EntityType Name="TBL_SIGNUP">
+    <Key>
+      <PropertyRef Name="USERNAME" />
+    </Key>
+    <Property Name="USERNAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EMAIL" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PASSWORD" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PHONE_NO" Type="Int64" Nullable="false" />
+    <Property Name="POINTS" Type="Int32" />
+    <NavigationProperty Name="TBL_ANSWERS" Relationship="Self.FK__TBL_ANSWE__USERN__1F98B2C1" FromRole="TBL_SIGNUP" ToRole="TBL_ANSWERS" />
+    <NavigationProperty Name="TBL_QUESTIONS" Relationship="Self.FK__TBL_QUEST__USERN__1CBC4616" FromRole="TBL_SIGNUP" ToRole="TBL_QUESTIONS" />
+    <NavigationProperty Name="TBL_USERROLE" Relationship="Self.FK__TBL_USERR__USERN__236943A5" FromRole="TBL_SIGNUP" ToRole="TBL_USERROLE" />
+  </EntityType>
+  <EntityType Name="TBL_USERROLE">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="USERNAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ROLE" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TBL_SIGNUP" Relationship="Self.FK__TBL_USERR__USERN__236943A5" FromRole="TBL_USERROLE" ToRole="TBL_SIGNUP" />
+  </EntityType>
+  <Association Name="FK__TBL_ANSWE__USERN__1F98B2C1">
+    <End Role="TBL_SIGNUP" Type="Self.TBL_SIGNUP" Multiplicity="0..1" />
+    <End Role="TBL_ANSWERS" Type="Self.TBL_ANSWERS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_SIGNUP">
+        <PropertyRef Name="USERNAME" />
+      </Principal>
+      <Dependent Role="TBL_ANSWERS">
+        <PropertyRef Name="USERNAME" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TBL_ANSWERS__QID__208CD6FA">
+    <End Role="TBL_QUESTIONS" Type="Self.TBL_QUESTIONS" Multiplicity="0..1" />
+    <End Role="TBL_ANSWERS" Type="Self.TBL_ANSWERS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_QUESTIONS">
+        <PropertyRef Name="QID" />
+      </Principal>
+      <Dependent Role="TBL_ANSWERS">
+        <PropertyRef Name="QID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TBL_QUEST__USERN__1CBC4616">
+    <End Role="TBL_SIGNUP" Type="Self.TBL_SIGNUP" Multiplicity="0..1" />
+    <End Role="TBL_QUESTIONS" Type="Self.TBL_QUESTIONS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_SIGNUP">
+        <PropertyRef Name="USERNAME" />
+      </Principal>
+      <Dependent Role="TBL_QUESTIONS">
+        <PropertyRef Name="USERNAME" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TBL_USERR__USERN__236943A5">
+    <End Role="TBL_SIGNUP" Type="Self.TBL_SIGNUP" Multiplicity="0..1" />
+    <End Role="TBL_USERROLE" Type="Self.TBL_USERROLE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_SIGNUP">
+        <PropertyRef Name="USERNAME" />
+      </Principal>
+      <Dependent Role="TBL_USERROLE">
+        <PropertyRef Name="USERNAME" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QueryRoomDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TBL_ANSWERS" EntityType="Self.TBL_ANSWERS" />
+    <EntitySet Name="TBL_QUESTIONS" EntityType="Self.TBL_QUESTIONS" />
+    <EntitySet Name="TBL_SIGNUP" EntityType="Self.TBL_SIGNUP" />
+    <EntitySet Name="TBL_USERROLE" EntityType="Self.TBL_USERROLE" />
+    <AssociationSet Name="FK__TBL_ANSWE__USERN__1F98B2C1" Association="Self.FK__TBL_ANSWE__USERN__1F98B2C1">
+      <End Role="TBL_SIGNUP" EntitySet="TBL_SIGNUP" />
+      <End Role="TBL_ANSWERS" EntitySet="TBL_ANSWERS" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TBL_ANSWERS__QID__208CD6FA" Association="Self.FK__TBL_ANSWERS__QID__208CD6FA">
+      <End Role="TBL_QUESTIONS" EntitySet="TBL_QUESTIONS" />
+      <End Role="TBL_ANSWERS" EntitySet="TBL_ANSWERS" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TBL_QUEST__USERN__1CBC4616" Association="Self.FK__TBL_QUEST__USERN__1CBC4616">
+      <End Role="TBL_SIGNUP" EntitySet="TBL_SIGNUP" />
+      <End Role="TBL_QUESTIONS" EntitySet="TBL_QUESTIONS" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TBL_USERR__USERN__236943A5" Association="Self.FK__TBL_USERR__USERN__236943A5">
+      <End Role="TBL_SIGNUP" EntitySet="TBL_SIGNUP" />
+      <End Role="TBL_USERROLE" EntitySet="TBL_USERROLE" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

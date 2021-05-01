@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QueryRoomDBModelStoreContainer" CdmEntityContainer="QueryRoomDBEntities">
+    <EntitySetMapping Name="TBL_ANSWERS">
+      <EntityTypeMapping TypeName="QueryRoomDBModel.TBL_ANSWERS">
+        <MappingFragment StoreEntitySet="TBL_ANSWERS">
+          <ScalarProperty Name="AID" ColumnName="AID" />
+          <ScalarProperty Name="QID" ColumnName="QID" />
+          <ScalarProperty Name="USERNAME" ColumnName="USERNAME" />
+          <ScalarProperty Name="ANSWER" ColumnName="ANSWER" />
+          <ScalarProperty Name="DATE" ColumnName="DATE" />
+          <ScalarProperty Name="LIKES" ColumnName="LIKES" />
+          <ScalarProperty Name="DISLIKES" ColumnName="DISLIKES" />
+          <ScalarProperty Name="ISVALIDATED" ColumnName="ISVALIDATED" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_QUESTIONS">
+      <EntityTypeMapping TypeName="QueryRoomDBModel.TBL_QUESTIONS">
+        <MappingFragment StoreEntitySet="TBL_QUESTIONS">
+          <ScalarProperty Name="QID" ColumnName="QID" />
+          <ScalarProperty Name="QUESTION" ColumnName="QUESTION" />
+          <ScalarProperty Name="USERNAME" ColumnName="USERNAME" />
+          <ScalarProperty Name="TIMESTAMP" ColumnName="TIMESTAMP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_SIGNUP">
+      <EntityTypeMapping TypeName="QueryRoomDBModel.TBL_SIGNUP">
+        <MappingFragment StoreEntitySet="TBL_SIGNUP">
+          <ScalarProperty Name="USERNAME" ColumnName="USERNAME" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+          <ScalarProperty Name="PHONE_NO" ColumnName="PHONE_NO" />
+          <ScalarProperty Name="POINTS" ColumnName="POINTS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_USERROLE">
+      <EntityTypeMapping TypeName="QueryRoomDBModel.TBL_USERROLE">
+        <MappingFragment StoreEntitySet="TBL_USERROLE">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="USERNAME" ColumnName="USERNAME" />
+          <ScalarProperty Name="ROLE" ColumnName="ROLE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

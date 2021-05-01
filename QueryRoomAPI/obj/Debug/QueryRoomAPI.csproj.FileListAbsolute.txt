@@ -1,0 +1,282 @@
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\obj\Debug\QueryRoomAPI.csprojAssemblyReference.cache
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\obj\Debug\QueryRoomAPI.csproj.CoreCompileInputs.cache
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\QueryRoomAPI.dll.config
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\QueryRoomAPI.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\QueryRoomAPI.pdb
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\csc.exe
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\csc.exe.config
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\csc.rsp
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\csi.exe
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\csi.exe.config
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\csi.rsp
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.AppContext.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Console.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Globalization.Calendars.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.IO.Compression.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Net.Http.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Net.Sockets.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.ValueTuple.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Xml.XPath.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\vbc.exe
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\vbc.exe.config
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\vbc.rsp
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\VBCSCompiler.exe
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\Antlr3.Runtime.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\AutoMapper.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\EntityFramework.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\EntityFramework.SqlServer.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\Newtonsoft.Json.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Net.Http.Formatting.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Helpers.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Http.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Http.WebHost.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Mvc.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Optimization.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Razor.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.WebPages.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.WebPages.Razor.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\WebGrease.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\AutoMapper.xml
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\EntityFramework.xml
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\EntityFramework.SqlServer.xml
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\Newtonsoft.Json.xml
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Net.Http.Formatting.xml
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Helpers.xml
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Http.xml
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Http.WebHost.xml
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Mvc.xml
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Optimization.xml
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Razor.xml
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.WebPages.xml
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.WebPages.Razor.xml
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\Antlr3.Runtime.pdb
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\obj\Debug\QueryRoomAPI.csproj.CopyComplete
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\obj\Debug\QueryRoomAPI.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\obj\Debug\QueryRoomAPI.pdb
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Cors.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Http.Cors.dll
+F:\Projects\QueryRoom\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Http.Cors.xml
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\QueryRoomAPI.dll.config
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\QueryRoomAPI.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\QueryRoomAPI.pdb
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\csc.exe
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\csc.exe.config
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\csc.rsp
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\csi.exe
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\csi.exe.config
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\csi.rsp
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.AppContext.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Console.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Globalization.Calendars.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.IO.Compression.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Net.Http.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Net.Sockets.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.ValueTuple.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Xml.XPath.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\vbc.exe
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\vbc.exe.config
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\vbc.rsp
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\VBCSCompiler.exe
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\Antlr3.Runtime.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\AutoMapper.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\EntityFramework.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\EntityFramework.SqlServer.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\Newtonsoft.Json.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Net.Http.Formatting.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Cors.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Helpers.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Http.Cors.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Http.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Http.WebHost.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Mvc.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Optimization.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Razor.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.WebPages.Deployment.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.WebPages.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.WebPages.Razor.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\WebGrease.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\AutoMapper.xml
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\EntityFramework.xml
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\EntityFramework.SqlServer.xml
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Http.Cors.xml
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\Newtonsoft.Json.xml
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Net.Http.Formatting.xml
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Helpers.xml
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Http.xml
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Http.WebHost.xml
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Mvc.xml
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Optimization.xml
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Razor.xml
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.WebPages.xml
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.WebPages.Deployment.xml
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\System.Web.WebPages.Razor.xml
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\Antlr3.Runtime.pdb
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\obj\Debug\QueryRoomAPI.csprojAssemblyReference.cache
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\obj\Debug\QueryRoomAPI.csproj.CoreCompileInputs.cache
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\obj\Debug\QueryRoomAPI.csproj.CopyComplete
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\obj\Debug\QueryRoomAPI.dll
+D:\mp_latest2\Final\QueryRoomAPI\QueryRoomAPI\QueryRoomAPI\obj\Debug\QueryRoomAPI.pdb
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\QueryRoomAPI.dll.config
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\QueryRoomAPI.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\QueryRoomAPI.pdb
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\csc.exe
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\csc.exe.config
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\csc.rsp
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\csi.exe
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\csi.exe.config
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\csi.rsp
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.AppContext.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Console.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Globalization.Calendars.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.IO.Compression.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Net.Http.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Net.Sockets.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.ValueTuple.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Xml.XPath.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\vbc.exe
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\vbc.exe.config
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\vbc.rsp
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\VBCSCompiler.exe
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\Antlr3.Runtime.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\AutoMapper.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\EntityFramework.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\EntityFramework.SqlServer.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\Newtonsoft.Json.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Net.Http.Formatting.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Cors.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Helpers.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Http.Cors.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Http.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Http.WebHost.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Mvc.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Optimization.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Razor.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.WebPages.Deployment.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.WebPages.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.WebPages.Razor.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\WebGrease.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\AutoMapper.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\EntityFramework.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\EntityFramework.SqlServer.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Http.Cors.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\Newtonsoft.Json.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Net.Http.Formatting.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Helpers.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Http.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Http.WebHost.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Mvc.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Optimization.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.Razor.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.WebPages.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.WebPages.Deployment.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\System.Web.WebPages.Razor.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\Antlr3.Runtime.pdb
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\obj\Debug\QueryRoomAPI.csprojAssemblyReference.cache
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\obj\Debug\QueryRoomAPI.csproj.CoreCompileInputs.cache
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\obj\Debug\QueryRoomAPI.csproj.CopyComplete
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\obj\Debug\QueryRoomAPI.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoomAPI\QueryRoomAPI\obj\Debug\QueryRoomAPI.pdb

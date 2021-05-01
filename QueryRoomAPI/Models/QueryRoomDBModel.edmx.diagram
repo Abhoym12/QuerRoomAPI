@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="67492186adb64fa2a631e8da767f442c" Name="Diagram1">
+        <EntityTypeShape EntityType="QueryRoomDBModel.TBL_ANSWERS" Width="1.5" PointX="5.25" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QueryRoomDBModel.TBL_QUESTIONS" Width="1.5" PointX="3" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QueryRoomDBModel.TBL_SIGNUP" Width="1.5" PointX="0.75" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QueryRoomDBModel.TBL_USERROLE" Width="1.5" PointX="3" PointY="9.75" IsExpanded="true" />
+        <AssociationConnector Association="QueryRoomDBModel.FK__TBL_ANSWE__USERN__1F98B2C1" ManuallyRouted="false" />
+        <AssociationConnector Association="QueryRoomDBModel.FK__TBL_ANSWERS__QID__208CD6FA" ManuallyRouted="false" />
+        <AssociationConnector Association="QueryRoomDBModel.FK__TBL_QUEST__USERN__1CBC4616" ManuallyRouted="false" />
+        <AssociationConnector Association="QueryRoomDBModel.FK__TBL_USERR__USERN__236943A5" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
